@@ -1,4 +1,12 @@
 # Human-Activity-Recognition
+
+Mentors :- 
+Surya Abhinai 
+Abhi Raj 
+
+Mentees :- 
+Radhika 
+
 # Dataset
 
 ## Description of Experiment
