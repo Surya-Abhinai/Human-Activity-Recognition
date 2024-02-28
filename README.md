@@ -1,11 +1,11 @@
 # Human-Activity-Recognition
 
 Mentors :- 
-Surya Abhinai 
-Abhi Raj 
+* Surya Abhinai 
+* Abhi Raj 
 
 Mentees :- 
-Radhika 
+* Radhika 
 
 # Dataset
 
