@@ -27,3 +27,18 @@ For each record in the dataset, the following information is provided:
 - A 561-feature vector with time and frequency domain variables.
 - Activity label indicating one of the six performed activities.
 - Subject identifier, representing the individual who carried out the experiment.
+
+## User Interface
+
+### Page 1
+
+<img src="https://github.com/Surya-Abhinai/Human-Activity-Recognition/assets/119744527/4733954f-3eda-4d08-b959-5c0c607af90a" width="300">
+
+<img src = "https://github.com/Surya-Abhinai/Human-Activity-Recognition/assets/119744527/2bdabb9d-0af5-4fd8-bd2a-b853b414aa4f" width="300">
+
+<img src = "https://github.com/Surya-Abhinai/Human-Activity-Recognition/assets/119744527/f0c6bedf-ffc0-415a-bfaf-652fdddafa82" width="300">
+
+### Page 2
+
+<img src = "https://github.com/Surya-Abhinai/Human-Activity-Recognition/assets/119744527/d3ee9d2c-11cd-456f-ba98-f0236f8ade27" width = "300">
+
